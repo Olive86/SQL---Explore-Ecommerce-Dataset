@@ -27,7 +27,10 @@ Question 2:
 
 <img width="611" height="271" alt="image" src="https://github.com/user-attachments/assets/ef5482d3-d0ae-4472-8738-c46af5f8b08f" />
 
+
+
 Output
+
 <img width="578" height="388" alt="image" src="https://github.com/user-attachments/assets/15380c16-1f16-4de5-acd9-b6a48041c877" />
 
 
