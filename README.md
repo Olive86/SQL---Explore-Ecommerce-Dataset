@@ -22,3 +22,14 @@ Output
 <img width="733" height="161" alt="image" src="https://github.com/user-attachments/assets/c9933e30-6d91-426b-9c2f-c6b2208c0b9f" />
 
 
+Question 2: 
+
+
+<img width="611" height="271" alt="image" src="https://github.com/user-attachments/assets/ef5482d3-d0ae-4472-8738-c46af5f8b08f" />
+
+Output
+<img width="578" height="388" alt="image" src="https://github.com/user-attachments/assets/15380c16-1f16-4de5-acd9-b6a48041c877" />
+
+
+
+
