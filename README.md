@@ -15,4 +15,10 @@ IV. Exploring the Dataset
 
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
 
-<img width="613" height="226" alt="image" src="https://github.com/user-attachments/assets/0a7a2a2a-95d1-4458-8d61-04ed7d1942a1" />
+<img width="609" height="203" alt="image" src="https://github.com/user-attachments/assets/7e318565-ae94-4f14-9180-df6c57829890" />
+
+Output
+
+<img width="733" height="161" alt="image" src="https://github.com/user-attachments/assets/c9933e30-6d91-426b-9c2f-c6b2208c0b9f" />
+
+
